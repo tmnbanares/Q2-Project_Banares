@@ -1,0 +1,125 @@
+body {
+		background-color: #FFF5D7;
+}
+
+
+header {
+		background-color: #F8601D;
+		left: 0;
+		top:0;
+		right: 0;
+		width: 100%;
+		z-index: 1;
+		position: fixed;
+		 padding: 10px;
+}
+#welcome {
+	display: inline-block;
+		color:  #F8601D;
+		font-family: times new roman;
+		font-style: italic;
+		font-weight: bold;
+		letter-spacing: 2px;
+		padding-left: 5px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		text-indent: 25px;
+		text-shadow: 2px 2px 2px black;
+}
+h1 {
+		display: inline-block;
+		color:  #FFF5D7;
+		font-family: times new roman;
+		font-style: italic;
+		font-weight: bold;
+		letter-spacing: 2px;
+		padding-left: 5px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		text-indent: 25px;
+		text-shadow: 2px 2px 2px black;
+}
+
+#top {
+	padding-top: 100px;
+	text-align: center;
+}
+
+h2 {
+		color: #F8601D;
+		padding-top: 40px;
+		text-align: center;
+}
+
+p {
+	padding-left: 120px;
+	padding-right: 120px;
+	text-align: justify;
+}
+
+#references {
+	padding-top: 40px;
+}
+
+img {
+	border-radius: 10px;
+	text-align: center;
+}
+
+#fb {
+	width: 100px;
+	height: 100px;
+	background: url('../images/icons.png') no-repeat -1228px -60px;
+	display: inline-block;
+}
+
+#fb:hover {
+	width: 100px;
+	height: 100px;
+	background: url('../images/icons.png') no-repeat -1675px -60px;
+	transform:scale(1.2);
+	border-radius:50px;
+}
+
+#ig {
+	width: 100px;
+	height: 100px;
+	background: url('../images/icons.png') no-repeat -1377px -60px;
+	display: inline-block;
+	margin-left: 575px;
+	border-radius: 50px;
+}
+#ig:hover {
+	width: 100px;
+	height: 100px;
+	background: url('../images/icons.png') no-repeat -1824px -60px;
+	transform:scale(1.2);
+}
+#twt {
+	width: 100px;
+	height: 100px;
+	background: url('../images/icons.png') no-repeat -1079px -60px;
+	display: inline-block;
+	border-radius: 50px;
+}
+
+#twt:hover {
+	width: 100px;
+	height: 100px;
+	background: url('../images/icons.png') no-repeat -1526px -60px;
+	transform:scale(1.2);
+}
+
+a {
+	text-align: center;
+}
+
+#outline {
+	padding-left: 100px;
+	
+}
+
+li {
+	padding-left: 0px;
+	text-align: justify;
+}

@@ -1,0 +1,103 @@
+body {
+		background-color: #FFF5D7;
+		position: relative;
+	
+}
+
+section {
+	padding-top: 130px;
+	padding-right: 50px;
+	padding-left: 50px;
+	text-align: justify;
+}
+	p {
+		text-align: justify;
+		padding: 25px;
+}
+.struggles {
+    justify-content: center;
+    align-items: center;
+margin-top: 50px;
+    width: 33.33%;
+    height: 500px;
+    background-color: #F8601D;
+	float: left;
+	margin-left: 170px;
+	border-radius: 20px;
+}
+h1 {
+		display: inline-block;
+		color:  #FFF5D7;
+		font-family: times new roman;
+		font-style: italic;
+		font-weight: bold;
+		letter-spacing: 2px;
+		padding-left: 5px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		text-indent: 25px;
+		text-shadow: 2px 2px 2px black;
+}
+header {
+		background-color: #F8601D;
+		left: 0;
+		top:0;
+		right: 0;
+		width: 100%;
+		z-index: 1;
+		position: fixed;
+		 padding: 10px;
+}
+div.struggles:hover {
+	transform: scale(1.2);
+}
+div.struggles p:hover {
+	color: #FFF5D7;
+}
+#p1 {
+		color: #FFF5D7
+}
+
+.vid {
+	padding-top: 1150px;
+}
+ 	h2 {
+		color: #F8601D;
+		text-align: center;
+}
+
+	img {
+		padding-left: 30px;
+		padding-bottom: 10px;
+}
+	.vid {
+		padding-left: 100px;
+}
+		
+.vid h2 {
+	padding-right: 90px;
+}
+#button1 {
+		text-decoration: none;
+		border: 5px solid #F8601D;
+		float: left;
+		color: black;
+		margin-top: 30px;
+		padding: 5px;
+}
+#button1:hover {
+		transform: scale(1.2);
+}
+	#button2 {
+		text-decoration: none;
+		border: 5px solid #F8601D;
+		float: right;
+		color: black;
+		margin-top: 30px;
+		padding: 5px;
+}
+	#button2:hover {
+		transform: scale(1.2);
+}
+
+
